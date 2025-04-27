@@ -18,6 +18,8 @@ O sistema permite:
 
 ### ---> Como rodar o projeto <---
 
+> TEM QUE TER O NODE INSTALADO PARCERO
+
 ### 1. Clone o repositório
 
 ```bash
