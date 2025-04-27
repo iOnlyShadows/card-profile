@@ -21,13 +21,13 @@ O sistema permite:
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/iOnlyShadows/card-profile.git
 ```
 
-### 2. Acesse o diretório do projeto
+### 2. Acesse o diretório do projeto ONDE O CLONOU
 
 ```bash
-cd nome-do-projeto
+cd card-profile
 ```
 
 ### 3. Instale as dependências
@@ -47,7 +47,7 @@ npm run dev
 ```bash
 http://localhost:5173
 ```
-
+> pra facilitar, use CTRL + clique em cima do link do localhost
 
 
 ##  Desenvolvido por
