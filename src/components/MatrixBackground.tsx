@@ -62,5 +62,5 @@ const MatrixBackground = () => {
     />
   );
 };
-
+// que coisa linda cara, codigo cabuloso demais
 export default MatrixBackground;

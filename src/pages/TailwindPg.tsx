@@ -15,7 +15,7 @@ function TailwindPg() {
 
   return (
     <div className="flex flex-col items-center min-h-screen p-8">
-      {/* INPUT + BOTÃO ESTILO MATRIX */}
+      {/* INPUT + BOTÃO  */}
       <div className="flex flex-col items-center gap-4 mb-8">
         <div className="bg-[#111] border-2 border-green-400 p-4 rounded-lg shadow-lg shadow-green-400 flex gap-4">
           <input
