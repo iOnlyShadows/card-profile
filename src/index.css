@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+/* Matrix base */
+body {
+  @apply bg-black text-green-400 font-mono min-h-screen;
+}
